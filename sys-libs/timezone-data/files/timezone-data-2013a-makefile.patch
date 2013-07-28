@@ -89,7 +89,7 @@
 @@ -366,5 +366,5 @@
  		chmod +x $@
  
--check:		check_tables check_web
-+check:		check_tables
+-check:		check_character_set check_tables check_web
++check:		check_character_set check_tables
  
  check_tables:	checktab.awk $(PRIMARY_YDATA)

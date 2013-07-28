@@ -8,7 +8,7 @@ arch @ ~x86_64
 
 standard_procedure = False
 
-srcdir = "linux-3.7.3"
+srcdir = "linux-3.10.3"
 
 def build():
     make("mrproper")

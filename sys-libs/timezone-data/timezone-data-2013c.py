@@ -2,8 +2,8 @@ metadata = """
 summary @ Sources for time zone and daylight saving time data
 homepage @ http://www.twinsun.com/tz/tz-link.htm
 license @ BSD public-domain
-src_url @ http://www.iana.org/time-zones/repository/releases/tzcode2012j.tar.gz
-http://www.iana.org/time-zones/repository/releases/tzdata2012j.tar.gz
+src_url @ http://www.iana.org/time-zones/repository/releases/tzcode2013c.tar.gz
+http://www.iana.org/time-zones/repository/releases/tzdata2013c.tar.gz
 arch @ ~x86_64
 """
 
